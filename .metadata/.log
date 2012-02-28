@@ -7,3 +7,15 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.ui 4 4 2012-02-13 17:20:08.531
 !MESSAGE Unable to find Action Set: com.aptana.editor.php.presentation
+!SESSION 2012-02-28 13:28:16.885 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-02-28 13:28:20.956
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 4 4 2012-02-28 13:28:25.739
+!MESSAGE Unable to find Action Set: com.aptana.editor.php.presentation
